@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<code_scheme name="MyTestStyle1">
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
+<code_scheme name="MyTestStyle2">
   <codeStyleSettings language="PHP">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
+      <option name="INDENT_SIZE" value="7" />
+      <option name="TAB_SIZE" value="7" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
-
