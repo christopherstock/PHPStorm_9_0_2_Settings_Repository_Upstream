@@ -4,6 +4,25 @@
       <component name="NamedScopeManager">
         <order />
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>File Watchers</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Bash</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -18,6 +37,12 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="Errors" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+      </component>
     </defaultProject>
   </component>
 </application>

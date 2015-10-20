@@ -1,0 +1,153 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94f0f0a1-a7c4-4f5b-9258-c67efeaba63a" name="qs06.xen.bahag.com" url="http://qs06.xen.bahag.com">
+        <fileTransfer host="qs06.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="30ac6e9e-a154-475a-a455-f22acf0f2699" name="qs08.xen.bahag.com" url="http://qs08.xen.bahag.com">
+        <fileTransfer host="qs08.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b7744cd3-6c6e-456b-b283-09fc0dc48d70" name="int-qs4" url="http://10.49.208.249">
+        <fileTransfer host="10.49.208.249" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn4" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag4" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="278e771e-a5e2-4221-be91-6e8bee5820b9" name="hybrid-qs1" url="http://10.49.208.81">
+        <fileTransfer host="10.49.208.81" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a676851d-8327-4699-b7f2-ebfce2f550d3" name="showroom.xen.bahag.com" url="http://showroom.xen.bahag.com">
+        <fileTransfer host="showroom.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7b943185-385d-4fd9-89d6-f3bc700a3723" name="qs05.xen.bahag.com" url="http://qs05.xen.bahag.com">
+        <fileTransfer host="qs05.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="de3caf45-962b-4121-9080-1352a533dfa4" name="qs02.xen.bahag.com" url="http://qs02.xen.bahag.com">
+        <fileTransfer host="qs02.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1646822f-cbcb-418e-ba6f-3a9d1381846d" name="int-qs6" url="http://10.49.208.51">
+        <fileTransfer host="10.49.208.51" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ed02020-2043-4c0f-b48a-b85ad14b8b84" name="int-qs3" url="http://10.49.208.248">
+        <fileTransfer host="10.49.208.248" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn3" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag3" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d8cbd6fa-fa16-4c34-a5da-63b5fdc24731" name="int-qs7" url="http://10.49.208.52">
+        <fileTransfer host="10.49.208.52" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="61420f09-cf08-4fd5-916b-b30828fb9d2a" name="int-qs5" url="http://10.49.208.75">
+        <fileTransfer host="10.49.208.75" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="912fbcff-4e39-4c67-a4a1-e17c9ec5f296" name="qs07.xen.bahag.com" url="http://qs07.xen.bahag.com">
+        <fileTransfer host="qs07.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="273dcf06-bb6d-4e62-86e1-74d1b1917349" name="qs09.xen.bahag.com" url="http://qs09.xen.bahag.com">
+        <fileTransfer host="qs09.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c5860208-fa72-416c-a11a-c49511764b08" name="int-qs1" url="http://10.49.208.246">
+        <fileTransfer host="10.49.208.246" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn1" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag1" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5bafa34c-33cb-460c-83f4-783dc9823527" name="int-qs11" url="http://10.49.208.86">
+        <fileTransfer host="10.49.208.86" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1d10608e-206a-4077-8dda-8406edc4d2a9" name="int-qs13" url="http://10.49.208.88">
+        <fileTransfer host="10.49.208.88" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1bd083ef-0cf1-44bb-bff5-d1a28e70b9d5" name="int-qs14" url="http://10.49.208.89">
+        <fileTransfer host="10.49.208.89" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="df884768-5f54-467a-b947-13f2e3dcb79c" name="s35" url="http://10.49.206.105">
+        <fileTransfer host="10.49.206.105" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/meai/EDDY3/ext/addon/bstw" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="eddy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="885cea83-9384-4c7e-ab7b-80e2be6ff779" name="qs10.xen.bahag.com" url="http://qs10.xen.bahag.com">
+        <fileTransfer host="qs10.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="df278fc1-b1e5-4e4f-af82-d093acd683fc" name="qs03.xen.bahag.com" url="http://qs03.xen.bahag.com">
+        <fileTransfer host="qs03.xen.bahag.com" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/home/bahag" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d061d699-d3a6-4307-bc3c-89e1ea3d8be8" name="int-qs10" url="http://10.49.208.85">
+        <fileTransfer host="10.49.208.85" port="22" privateKey="C:\Users\Stock\Documents\putty-keys\OPEN_SSH_christopher-stock-private-key.ppk" rootFolder="/services/http/vhost/html_svn" accessType="SFTP" passphrase="dff9dfc2dfcfdfcfdfdcdfcb" username="bahag" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
